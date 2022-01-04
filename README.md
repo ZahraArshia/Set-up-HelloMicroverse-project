@@ -13,6 +13,6 @@
 <ul dir="auto">
     <li>Zahra</li>
     <li>
-        <a href="https://github.com/ZahraArshia/Set-up-HelloMicroverse-project.git"></a>
+        <a href="https://github.com/ZahraArshia/Set-up-HelloMicroverse-project.git">github</a>
     </li>
 </ul>
