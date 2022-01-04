@@ -1,4 +1,4 @@
-# Set-up-HelloMicroverse-project Seting up a "Hello Microverse" project
+# Seting up a "Hello Microverse" project
 <h1 dir="auto"> "project name" </h1>
 <p dir="auto">its the seconde day code excercise in microverse</p>
 <h2 dir="auto">"built with</h2>
